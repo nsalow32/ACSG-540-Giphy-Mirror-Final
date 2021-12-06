@@ -1,4 +1,4 @@
-var APIKEY = "EMnm5fpUKYhxn6dIpYuXzCW5s6YiEtyb"
+var APIKEY = "secret!"
 
 function getImages() {
     var GetMore = document.getElementById("more").addEventListener("click")
